@@ -1,0 +1,6 @@
+export const SHOW_MODAL = 'show_modal'
+export const HIDE_MODAL = 'hide_modal'
+export const LOGIN_SUCCESS = 'login_success'
+export const LOGOUT_SUCCESS = 'logout_success'
+export const UPDATE_FOLLOW = 'update_follow'
+export const UPDATE_LIKED = 'update_liked'
